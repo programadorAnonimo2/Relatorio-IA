@@ -7,7 +7,7 @@ O conteúdo foca em facilitar a compreensão das dez vulnerabilidades de seguran
 🎥 Recurso Multimídia
 O material explicativo gerado pode ser acessado através do link abaixo:
 
-Link do Vídeo/Apresentação: Explicação Prática: OWASP Top 10
+Link do Vídeo/Apresentação: Explicação Prática: https://notebooklm.google.com/notebook/63353055-2af6-4903-9237-1342ea3c4c51
 
 📚 Fontes e Referências
 A base de conhecimento para a construção deste material foi estruturada com o auxílio das seguintes referências:
